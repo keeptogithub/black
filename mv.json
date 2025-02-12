@@ -4,15 +4,27 @@
 	"data":[
                {
 		       "id":1,
-		       "mvtittle":"",
-		       "mvimg":"https://keeptogithub.github.io/black/",
-		       "mvvid":"https://keeptogithub.github.io/black/" 
+		       "mvtittle":"BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’",
+		       "mvimg":"https://keeptogithub.github.io/black/ddu_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/ddu_mvvid.mp4" 
+               },
+	       {
+		       "id":2,
+		       "mvtittle":"BLACKPINK - 'Don't Know What To Do' DANCE PRACTICE VIDEO (MOVING VER.)",
+		       "mvimg":"https://keeptogithub.github.io/black/dont_know_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/dont_know_mvvid.mp4" 
                },
 		{
-		       "id":2,
-		       "mvtittle":"",
-		       "mvimg":"https://keeptogithub.github.io/black/",
-		       "mvvid":"https://keeptogithub.github.io/black/" 
+		       "id":3,
+		       "mvtittle":"BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)'",
+		       "mvimg":"https://keeptogithub.github.io/black/as_ifit_yourlast_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/as_ifit_yourlast_mvvid.mp4" 
+               },
+		{
+		       "id":4,
+		       "mvtittle":"BLACKPINK - '붐바야 (BOOMBAYAH)'",
+		       "mvimg":"https://keeptogithub.github.io/black/boombayah_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/boombayah_mvvid.mp4" 
                }
   ]
 }
