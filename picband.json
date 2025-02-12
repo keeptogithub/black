@@ -2,8 +2,9 @@
 	"status":"success",
 	"message":"",
 	"data":{
-		          "pic":"https://keeptogithub.github.io/black/blackpink_pic.jpg"
-              "pic":"https://keeptogithub.github.io/black/blackpink_pic.jpg"
-    
-         }
+		     "picrose":"https://keeptogithub.github.io/black/rose_pic.jpg",
+                     "piclisa":"https://keeptogithub.github.io/black/lisa_pic.jpg",
+		     "picjennie":"https://keeptogithub.github.io/black/jennie_pic.jpg",
+		     "picjisoo":"https://keeptogithub.github.io/black/jisoo_pic.jpeg"
+               }
 }
