@@ -25,6 +25,36 @@
 		       "mvtittle":"BLACKPINK - '붐바야 (BOOMBAYAH)'",
 		       "mvimg":"https://keeptogithub.github.io/black/boombayah_mvimg.jpg",
 		       "mvvid":"https://keeptogithub.github.io/black/boombayah_mvvid.mp4" 
+               },
+		{
+		       "id":5,
+		       "mvtittle":"BLACKPINK – ‘Forever Young’",
+		       "mvimg":"https://keeptogithub.github.io/black/forever_young_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/forever_young_mvvid.mp4" 
+               },
+		{
+		       "id":6,
+		       "mvtittle":"BLACKPINK – ‘Kick It’",
+		       "mvimg":"https://keeptogithub.github.io/black/kick_it_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/kick_it_mvvid.mp4" 
+               },
+		{
+		       "id":7,
+		       "mvtittle":"BLACKPINK - 'How You Like That' ",
+		       "mvimg":"https://keeptogithub.github.io/black/howyou_likethat_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/howyou_likethat_mvvid.mp4" 
+               },
+		{
+		       "id":8,
+		       "mvtittle":"BLACKPINK - 'Hope Not'",
+		       "mvimg":"https://keeptogithub.github.io/black/hope_not_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/hope_not_mvvid.mp4" 
+               },
+		{
+		       "id":9,
+		       "mvtittle":"BLACKPINK THE GAME - ‘THE GIRLS’ ",
+		       "mvimg":"https://keeptogithub.github.io/black/the_girl_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/the_girl_mvvid.mp4" 
                }
   ]
 }
