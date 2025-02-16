@@ -133,6 +133,66 @@
 		       "mvtittle":"BLACKPINK X PUBG MOBILE - ‘Ready For Love’ ",
 		       "mvimg":"https://keeptogithub.github.io/black/ready_for_love_mvimg.jpg",
 		       "mvvid":"https://keeptogithub.github.io/black/ready_for_love_mvvid.mp4" 
+               },
+		{
+		       "id":23,
+		       "mvtittle":"BLACKPINK – ‘Hard To Love’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/hardto_love_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/hardto_love_mvvid.mp4" 
+               },
+		{
+		       "id":24,
+		       "mvtittle":"BLACKPINK – ‘Tally’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/tally_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/tally_mvvid.mp4" 
+               },
+		{
+		       "id":25,
+		       "mvtittle":"BLACKPINK – ‘The Happiest Girl ’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/the_happiest_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/the_happiest_mvvid.mp4" 
+               },
+		{
+		       "id":26,
+		       "mvtittle":"BLACKPINK - ‘Typa Girl’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/typa_girl_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/typa_girl_mvvid.mp4" 
+               },
+		{
+		       "id":27,
+		       "mvtittle":"BLACKPINK - 'Crazy Over You'  ",
+		       "mvimg":"https://keeptogithub.github.io/black/crazy_overyou_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/crazy_overyou_mvvid.mp4" 
+               },
+		{
+		       "id":28,
+		       "mvtittle":"BLACKPINK - 'Ice Cream (with Selena Gomez)'  ",
+		       "mvimg":"https://keeptogithub.github.io/black/ice_cream_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/ice_cream_mvvid.mp4" 
+               },
+		{
+		       "id":29,
+		       "mvtittle":"BLACKPINK - 'Love To Hate Me'  ",
+		       "mvimg":"https://keeptogithub.github.io/black/loveto_hateme_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/loveto_hateme_mvvid.mp4" 
+               },
+		{
+		       "id":30,
+		       "mvtittle":"BLACKPINK, Cardi B - 'Bet You Wanna'  ",
+		       "mvimg":"https://keeptogithub.github.io/black/betyou_wanna_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/betyou_wanna_mvvid.mp4" 
+               },
+		{
+		       "id":31,
+		       "mvtittle":"Dua Lipa & BLACKPINK - Kiss and Make Up  ",
+		       "mvimg":"https://keeptogithub.github.io/black/kiss_makeup_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/kiss_makeup_mvvid.mp4" 
+               },
+		{
+		       "id":32,
+		       "mvtittle":"Lady Gaga, BLACKPINK - Sour Candy  ",
+		       "mvimg":"https://keeptogithub.github.io/black/sour_candy_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/sour_candy_mvvid.mp4" 
                }
   ]
 }
