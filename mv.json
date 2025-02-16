@@ -55,6 +55,42 @@
 		       "mvtittle":"BLACKPINK THE GAME - ‘THE GIRLS’ ",
 		       "mvimg":"https://keeptogithub.github.io/black/the_girl_mvimg.jpg",
 		       "mvvid":"https://keeptogithub.github.io/black/the_girl_mvvid.mp4" 
+               },
+		{
+		       "id":10,
+		       "mvtittle":"BLACKPINK - ‘Pink Venom’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/pink_vemon_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/pink_vemon_mvvid.mp4" 
+               },
+		{
+		       "id":11,
+		       "mvtittle":"BLACKPINK – ‘See U Later’  ",
+		       "mvimg":"https://keeptogithub.github.io/black/seeu_later_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/seeu_later_mvvid.mp4" 
+               },
+		{
+		       "id":12,
+		       "mvtittle":"BLACKPINK - ‘Shut Down’ ",
+		       "mvimg":"https://keeptogithub.github.io/black/shut_down_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/shut_down_mvvid.mp4" 
+               },
+		{
+		       "id":13,
+		       "mvtittle":"BLACKPINK – ‘Yeah Yeah Yeah’ ",
+		       "mvimg":"https://keeptogithub.github.io/black/yeah_yeah_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/yeah_yeah_mvvid.mp4" 
+               },
+		{
+		       "id":14,
+		       "mvtittle":"BLACKPINK - 'Kill This Love' ",
+		       "mvimg":"https://keeptogithub.github.io/black/kill_this_love_mvimg.jpg",
+		       "mvvid":"https://keeptogithub.github.io/black/kill_this_love_mvvid.mp4" 
+               },
+		{
+		       "id":15,
+		       "mvtittle":" ",
+		       "mvimg":"https://keeptogithub.github.io/black/",
+		       "mvvid":"https://keeptogithub.github.io/black/" 
                }
   ]
 }
