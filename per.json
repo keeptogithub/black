@@ -55,6 +55,42 @@
 			  "pertittle":"BLACKPINK - ‘Kill This Love’ 0414 SBS Inkigayo ",
 			  "perimg":"https://keeptogithub.github.io/black/killthislove_one_perimg.jpg",
 			  "pervid":"https://keeptogithub.github.io/black/killthislove_one_pervid.mp4"
+                },
+		{
+			  "id":10,
+			  "pertittle":"BLACKPINK - ‘Pink Venom’ SPECIAL STAGE ",
+			  "perimg":"https://keeptogithub.github.io/black/pinkvemon_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/pinkvemon_one_pervid.mp4"
+                },
+		{
+			  "id":11,
+			  "pertittle":"BLACKPINK - ‘Pretty Savage’ 1011 SBS Inkigayo ",
+			  "perimg":"https://keeptogithub.github.io/black/prettysavage_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/prettysavage_one_pervid.mp4"
+                },
+		{
+			  "id":12,
+			  "pertittle":"BLACKPINK - 'Hope Not' [TOKYO DOME DVD LIVE] ",
+			  "perimg":"https://keeptogithub.github.io/black/hopenot_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/hopenot_one_pervid.mp4"
+                },
+		{
+			  "id":13,
+			  "pertittle":"BLACKPINK - 'Lovesick Girls' Jimmy Kimmel Live ",
+			  "perimg":"https://keeptogithub.github.io/black/lovesickgirl_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/lovesickgirl_one_pervid.mp4"
+                },
+		{
+			  "id":14,
+			  "pertittle":"BLACKPINK ‘KICK IT’ [BORN PINK FINALE IN SEOUL LIVE ] ",
+			  "perimg":"https://keeptogithub.github.io/black/kickit_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/kickit_one_pervid.mp4"
+                },
+		{
+			  "id":15,
+			  "pertittle":"BLACKPINK(블랙핑크) - How You Like That @인기가요 inkigayo ",
+			  "perimg":"https://keeptogithub.github.io/black/howyoulikethat_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/howyoulikethat_one_pervid.mp4"
                 }
 		
   ]
