@@ -31,6 +31,30 @@
 			  "pertittle":"BLACKPINK - '붐바야(BOOMBAYAH)' 0814 SBS Inkigayo ",
 			  "perimg":"https://keeptogithub.github.io/black/boombayah_one_perimg.jpg",
 			  "pervid":"https://keeptogithub.github.io/black/boombayah_one_pervid.mp4"
+                },
+		{
+			  "id":6,
+			  "pertittle":"【Premium】BLACKPINK - REALLY -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL ",
+			  "perimg":"https://keeptogithub.github.io/black/really_one_perimg.JPG",
+			  "pervid":"https://keeptogithub.github.io/black/really_one_pervid.mp4"
+                },
+		{
+			  "id":7,
+			  "pertittle":"【Premium】BLACKPINK - SEE U LATER -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HAL ",
+			  "perimg":"https://keeptogithub.github.io/black/seeulater_one_perimg.JPG",
+			  "pervid":"https://keeptogithub.github.io/black/seeulater_one_pervid.mp4"
+                },
+		{
+			  "id":8,
+			  "pertittle":"BLACKPINK - ‘FOREVER YOUNG’ 0715 SBS Inkigayo ",
+			  "perimg":"https://keeptogithub.github.io/black/foreveryoung_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/foreveryoung_one_pervid.mp4"
+                },
+		{
+			  "id":9,
+			  "pertittle":"BLACKPINK - ‘Kill This Love’ 0414 SBS Inkigayo ",
+			  "perimg":"https://keeptogithub.github.io/black/killthislove_one_perimg.jpg",
+			  "pervid":"https://keeptogithub.github.io/black/killthislove_one_pervid.mp4"
                 }
 		
   ]
