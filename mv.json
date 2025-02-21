@@ -1,8 +1,5 @@
-{
-	"status":"success",
-	"message":"",
-	"data":[
-               {
+[
+	        {
 		       "id":1,
 		       "mvtittle":"BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’",
 		       "mvimg":"https://keeptogithub.github.io/black/ddu_mvimg.jpg",
@@ -194,5 +191,4 @@
 		       "mvimg":"https://keeptogithub.github.io/black/sour_candy_mvimg.jpg",
 		       "mvvid":"https://keeptogithub.github.io/black/sour_candy_mvvid.mp4" 
                }
-  ]
-}
+]
