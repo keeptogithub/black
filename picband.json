@@ -1,10 +1,6 @@
 {
-	"status":"success",
-	"message":"",
-	"data":{
-		     "picrose":"https://keeptogithub.github.io/black/rose_pic.jpg",
-                     "piclisa":"https://keeptogithub.github.io/black/lisa_pic.jpg",
-		     "picjennie":"https://keeptogithub.github.io/black/jennie_pic.jpg",
-		     "picjisoo":"https://keeptogithub.github.io/black/jisoo_pic.jpeg"
-               }
+	"picrose":"https://keeptogithub.github.io/black/rose_pic.jpg",
+        "piclisa":"https://keeptogithub.github.io/black/lisa_pic.jpg",
+	"picjennie":"https://keeptogithub.github.io/black/jennie_pic.jpg",
+	"picjisoo":"https://keeptogithub.github.io/black/jisoo_pic.jpeg"
 }
